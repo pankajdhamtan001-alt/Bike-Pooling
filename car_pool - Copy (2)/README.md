@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # UrbanBike - Bicycle Pooling Application
 
 A platform that allows users to connect with other cyclists and share rides in urban areas.
@@ -104,7 +103,3 @@ If you have issues with the "Offer Ride" or "Find Ride" functionality:
 ## License
 
 This project is licensed under the MIT License.
-=======
-# Urban-Bike-Pooling
-A modern full-stack web application that allows users to share bike rides in urban areas, aiming to reduce traffic congestion, carbon emissions, and fuel costs.
->>>>>>> 644a183d4140770f4d8d34864c3a81ad8a250ebb
